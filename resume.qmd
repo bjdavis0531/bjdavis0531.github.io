@@ -5,34 +5,48 @@ title: "Resume"
 [Download my Resume as a PDF](./resume.pdf)
 
 # Brock Davis
-**208.497.4178** | **bdavis@byui.edu** [LinkedIn Profile](https://www.linkedin.com/in/brock-davis-0a70a134b/) | [GitHub Portfolio](https://github.com/bjdavis0531)
+**208.497.4178** | **bdavis@byui.edu** | [LinkedIn Profile](https://www.linkedin.com/in/brock-davis-0a70a134b/) | [GitHub Portfolio](https://github.com/bjdavis0531)
+
+---
 
 ## Education
-**Brigham Young University - Idaho** | *Rexburg, ID* **Bachelor of Science** | *November 2024 - May 2028* * **Major:** Accounting
-* **GPA:** 3.86
-* **Minor:** Data Science
+
+**Brigham Young University - Idaho** | *Rexburg, ID* **Bachelor of Science** | *November 2024 - May 2028*
+
+### **Major:** Accounting
+### **Minor:** Data Science
+### **GPA:** 3.86
+
+---
 
 ## Experience
 
-**Grocery Clerk** | *WinCo Foods, Idaho Falls, ID* * Promoted within two weeks for strong performance and rapid skill development.
-* Provided exceptional member-focused customer service to 50+ customers per day.
-* Received weekly one-on-one mentoring on branch-style operations, leadership, and quality service standards.
-* Built strong relationships with customers and coworkers to support a positive store environment.
-* Recorded inventory and rotated products with high attention to detail.
-* Trained across eight departments, including Grocery, Produce, Meat, Bakery, and Cashier.
-* Supported high-traffic holiday and weekend operations, helping hundreds of customers complete purchases.
+**Grocery Clerk** | *WinCo Foods, Idaho Falls, ID*
 
-**Fryer** | *Rusty Lantern Diner, Ucon, ID* * Memorized 20+ recipes for main dishes and desserts.
-* Prepared dozens of orders per hour in a fast-paced kitchen with a two-person team.
-* Filled shifts during short-staffed periods and maintained flexible availability.
-* Adapted quickly to changing service demands while maintaining exceptional customer service standards.
-* Executed food preparation, sanitation, and customer service tasks within a four-person team, completing orders in under 12 minutes.
+### • Promoted within two weeks for strong performance and rapid skill development.
+### • Provided exceptional member-focused customer service to 50+ customers per day.
+### • Received weekly one-on-one mentoring on branch-style operations.
+### • Built strong relationships with customers and coworkers.
+### • Recorded inventory and rotated products with high attention to detail.
+### • Trained across eight departments (Grocery, Produce, Meat, Bakery, Cashier).
+### • Supported high-traffic holiday and weekend operations.
+
+**Fryer** | *Rusty Lantern Diner, Ucon, ID*
+
+### • Memorized 20+ recipes for main dishes and desserts.
+### • Prepared dozens of orders per hour in a fast-paced kitchen.
+### • Filled shifts during short-staffed periods with flexible availability.
+### • Adapted quickly to changing service demands.
+### • Executed food preparation and sanitation within a four-person team.
+
+---
 
 ## Leadership, Interests, & Skills
-* **Eagle Scout Award:** Earned in the final year it was offered by the Church of Jesus Christ of Latter-day Saints.
-* **Service:** Built and donated a bookshelf to a Ruth House shelter and supplied nearly 100 books.
-* **Awards:** Received the President's Award for Educational Achievement.
-* **Communication:** Demonstrate strong written and verbal communication skills, including active listening.
-* **Interests:** Played guitar for over a decade; built an electric guitar from scratch.
-* **Work Ethic:** Proven reliability during long shifts and challenging environments, including outdoor winter conditions.
-* **Technical Skills:** Proficient with Microsoft Office tools (Word, Excel, Outlook) and basic Data Science workflows.
+
+### • **Eagle Scout Award:** Earned in the final year offered by the Church.
+### • **Service:** Built and donated a bookshelf and 100 books to Ruth House.
+### • **Awards:** Received the President's Award for Educational Achievement.
+### • **Communication:** Strong written and verbal skills; active listening.
+### • **Interests:** Played guitar for a decade; built an electric guitar from scratch.
+### • **Work Ethic:** Proven reliability during long shifts and outdoor winter conditions.
+### • **Technical Skills:** Microsoft Office (Word, Excel, Outlook) and Data Science.

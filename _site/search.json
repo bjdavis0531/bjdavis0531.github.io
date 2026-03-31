@@ -53,21 +53,21 @@
     "href": "resume.html#education",
     "title": "Resume",
     "section": "Education",
-    "text": "Education\nBrigham Young University - Idaho | Rexburg, ID Bachelor of Science | November 2024 - May 2028 * Major: Accounting * GPA: 3.86 * Minor: Data Science"
+    "text": "Education\nBrigham Young University - Idaho | Rexburg, ID Bachelor of Science | November 2024 - May 2028\n\nMajor: Accounting\n\n\nMinor: Data Science\n\n\nGPA: 3.86"
   },
   {
     "objectID": "resume.html#experience",
     "href": "resume.html#experience",
     "title": "Resume",
     "section": "Experience",
-    "text": "Experience\nGrocery Clerk | WinCo Foods, Idaho Falls, ID * Promoted within two weeks for strong performance and rapid skill development. * Provided exceptional member-focused customer service to 50+ customers per day. * Received weekly one-on-one mentoring on branch-style operations, leadership, and quality service standards. * Built strong relationships with customers and coworkers to support a positive store environment. * Recorded inventory and rotated products with high attention to detail. * Trained across eight departments, including Grocery, Produce, Meat, Bakery, and Cashier. * Supported high-traffic holiday and weekend operations, helping hundreds of customers complete purchases.\nFryer | Rusty Lantern Diner, Ucon, ID * Memorized 20+ recipes for main dishes and desserts. * Prepared dozens of orders per hour in a fast-paced kitchen with a two-person team. * Filled shifts during short-staffed periods and maintained flexible availability. * Adapted quickly to changing service demands while maintaining exceptional customer service standards. * Executed food preparation, sanitation, and customer service tasks within a four-person team, completing orders in under 12 minutes."
+    "text": "Experience\nGrocery Clerk | WinCo Foods, Idaho Falls, ID\n\n• Promoted within two weeks for strong performance and rapid skill development.\n\n\n• Provided exceptional member-focused customer service to 50+ customers per day.\n\n\n• Received weekly one-on-one mentoring on branch-style operations.\n\n\n• Built strong relationships with customers and coworkers.\n\n\n• Recorded inventory and rotated products with high attention to detail.\n\n\n• Trained across eight departments (Grocery, Produce, Meat, Bakery, Cashier).\n\n\n• Supported high-traffic holiday and weekend operations.\nFryer | Rusty Lantern Diner, Ucon, ID\n\n\n• Memorized 20+ recipes for main dishes and desserts.\n\n\n• Prepared dozens of orders per hour in a fast-paced kitchen.\n\n\n• Filled shifts during short-staffed periods with flexible availability.\n\n\n• Adapted quickly to changing service demands.\n\n\n• Executed food preparation and sanitation within a four-person team."
   },
   {
     "objectID": "resume.html#leadership-interests-skills",
     "href": "resume.html#leadership-interests-skills",
     "title": "Resume",
     "section": "Leadership, Interests, & Skills",
-    "text": "Leadership, Interests, & Skills\n\nEagle Scout Award: Earned in the final year it was offered by the Church of Jesus Christ of Latter-day Saints.\nService: Built and donated a bookshelf to a Ruth House shelter and supplied nearly 100 books.\nAwards: Received the President’s Award for Educational Achievement.\nCommunication: Demonstrate strong written and verbal communication skills, including active listening.\nInterests: Played guitar for over a decade; built an electric guitar from scratch.\nWork Ethic: Proven reliability during long shifts and challenging environments, including outdoor winter conditions.\nTechnical Skills: Proficient with Microsoft Office tools (Word, Excel, Outlook) and basic Data Science workflows."
+    "text": "Leadership, Interests, & Skills\n\n• Eagle Scout Award: Earned in the final year offered by the Church.\n\n\n• Service: Built and donated a bookshelf and 100 books to Ruth House.\n\n\n• Awards: Received the President’s Award for Educational Achievement.\n\n\n• Communication: Strong written and verbal skills; active listening.\n\n\n• Interests: Played guitar for a decade; built an electric guitar from scratch.\n\n\n• Work Ethic: Proven reliability during long shifts and outdoor winter conditions.\n\n\n• Technical Skills: Microsoft Office (Word, Excel, Outlook) and Data Science."
   },
   {
     "objectID": "Machine_Learning/project5.html",
@@ -385,14 +385,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
     "text": "MarkDown Basics"
   },
   {
     "objectID": "index.html#title-2-header",
     "href": "index.html#title-2-header",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
     "text": "MarkDown Basics"
   },
