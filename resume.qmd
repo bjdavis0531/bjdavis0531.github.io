@@ -1,91 +1,38 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: "Resume"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
-</div>
+[Download my Resume as a PDF](./resume.pdf)
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+# Brock Davis
+**208.497.4178** | **bdavis@byui.edu** [LinkedIn Profile](https://www.linkedin.com/in/brock-davis-0a70a134b/) | [GitHub Portfolio](https://github.com/bjdavis0531)
 
 ## Education
+**Brigham Young University - Idaho** | *Rexburg, ID* **Bachelor of Science** | *November 2024 - May 2028* * **Major:** Accounting
+* **GPA:** 3.86
+* **Minor:** Data Science
 
-`1654-1660`
-__The King's School, Grantham.__
+## Experience
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Grocery Clerk** | *WinCo Foods, Idaho Falls, ID* * Promoted within two weeks for strong performance and rapid skill development.
+* Provided exceptional member-focused customer service to 50+ customers per day.
+* Received weekly one-on-one mentoring on branch-style operations, leadership, and quality service standards.
+* Built strong relationships with customers and coworkers to support a positive store environment.
+* Recorded inventory and rotated products with high attention to detail.
+* Trained across eight departments, including Grocery, Produce, Meat, Bakery, and Cashier.
+* Supported high-traffic holiday and weekend operations, helping hundreds of customers complete purchases.
 
-- Sizar
+**Fryer** | *Rusty Lantern Diner, Ucon, ID* * Memorized 20+ recipes for main dishes and desserts.
+* Prepared dozens of orders per hour in a fast-paced kitchen with a two-person team.
+* Filled shifts during short-staffed periods and maintained flexible availability.
+* Adapted quickly to changing service demands while maintaining exceptional customer service standards.
+* Executed food preparation, sanitation, and customer service tasks within a four-person team, completing orders in under 12 minutes.
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+## Leadership, Interests, & Skills
+* **Eagle Scout Award:** Earned in the final year it was offered by the Church of Jesus Christ of Latter-day Saints.
+* **Service:** Built and donated a bookshelf to a Ruth House shelter and supplied nearly 100 books.
+* **Awards:** Received the President's Award for Educational Achievement.
+* **Communication:** Demonstrate strong written and verbal communication skills, including active listening.
+* **Interests:** Played guitar for over a decade; built an electric guitar from scratch.
+* **Work Ethic:** Proven reliability during long shifts and challenging environments, including outdoor winter conditions.
+* **Technical Skills:** Proficient with Microsoft Office tools (Word, Excel, Outlook) and basic Data Science workflows.
